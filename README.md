@@ -22,7 +22,7 @@ PyScreen is a versatile screen recording application built with Python and Tkint
 
 ## Installation
 
-1. Clone this repository or download the `sssss.py` file.
+1. Clone this repository or download the `main.py` file.
 2. Install the required dependencies:
 ```pip install opencv-python numpy pyautogui```
 
